@@ -1,0 +1,2 @@
+*.dat
+The star makes git ignore any directory with that ending
